@@ -1,4 +1,4 @@
 # demo-repo
-This is my first demo repository
+This is my first demo repository.
 <br>
 Author - Janvi
